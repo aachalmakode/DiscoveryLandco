@@ -1,5 +1,5 @@
 .footer {
-    background-color: black;
+    background-color:black;
     height: 500px;
     clear: both;
     width: 100%;
@@ -31,7 +31,7 @@
 }
 
 .mail {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Open Sans';
 }
 
 .content2 {

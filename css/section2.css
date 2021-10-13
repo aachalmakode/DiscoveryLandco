@@ -34,8 +34,7 @@
 .paragraph {
     text-align: justify;
     font-size: 16px;
-    font-family: 'messina-sans', sans-serif;
-    color: #1f1f1f;
+    font-family:'Open Sans';
     line-height: 1.9;
     padding-bottom: 10%;
     width: 80%;
